@@ -46,9 +46,9 @@ To ensure an unbiased comparison between Theoretical Potential and Actual Perfor
 
 • Site Diagnostics: 
    
-    -Location 1: Closest alignment between the real-world curve and the theoretical model (highest integrity).
+    - Location 1: Closest alignment between the real-world curve and the theoretical model (highest integrity).
+    - Location 2: Highest deviation from the theoretical curve (most significant performance loss).
     
-    -Location 2: Highest deviation from the theoretical curve (most significant performance loss).
 <img width="1669" height="674" alt="image" src="https://github.com/user-attachments/assets/b6f0f186-a3a4-4522-91ef-c3f18a8f26ef" />
 
 ## 🏆 Final Benchmarking & Reliability
@@ -59,6 +59,7 @@ The study concluded with a multi-metric dashboard evaluating:
 • Capacity Factor: Actual energy delivery
 
 • Absolute Efficiency Gap: Quantification of lost energy resource.
+
 <img width="1673" height="477" alt="image" src="https://github.com/user-attachments/assets/c05ece41-470e-4e6f-9edc-ccaa361c71eb" />
 
 ### Stability & Error Analysis
