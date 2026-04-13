@@ -6,7 +6,7 @@ This project provides a comprehensive efficiency analysis of wind power generati
 ## 🧮 Data Integrity & Initial Assessment
 • Data Integrity: The dataset was audited and confirmed to have zero missing values, ensuring a statistically robust foundation for all subsequent analyses.
 • Baseline Production: The study initiated with a comparative analysis of power output across all sites to establish the baseline generation capacity for each location.
-<img width="1784" height="661" alt="image" src="https://github.com/user-attachments/assets/f6d36347-fc9d-4277-82c6-fcbebeb4102d" />
+<img width="1670" height="658" alt="image" src="https://github.com/user-attachments/assets/aa06ac3c-ad3e-4159-8683-91f126c3eb07" />
 
 ## 🔍 Key Analytical Phases
 
