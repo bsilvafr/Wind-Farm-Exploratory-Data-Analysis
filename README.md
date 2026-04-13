@@ -1,6 +1,6 @@
 # Wind Power Generation Analysis
 
-## 📌 Project Overview
+## 🎯 About the Project
 This project provides a comprehensive efficiency analysis of wind power generation across four distinct locations over a one-year period. By correlating operational data with atmospheric variables, the study identifies performance drivers, hemispheric positioning, and density-dependent efficiency gaps.
 
 ## 🧮 Data Integrity & Initial Assessment
@@ -10,24 +10,24 @@ This project provides a comprehensive efficiency analysis of wind power generati
 
 ## 🔍 Key Analytical Phases
 
-### 1. Thermal Impact & Hemispheric Identification
+### 🔹1. Thermal Impact & Hemispheric Identification
 A study on the relationship between ambient temperature and turbine efficiency revealed a significant performance degradation during peak temperature months.
 • Seasonal Correlation: The performance dip occurred consistently in the middle of the calendar year.
 • Geographic Inference: This thermal response confirms that all locations are situated in the Northern Hemisphere, where the highest temperatures occur between June and August.
 • The Winter Efficiency Paradox: Although wind resource availability peaks in winter, the turbines' capacity to convert this surplus energy does not scale proportionally. This suggests aerodynamic saturation or mechanical control limits that prevent the system from fully exploiting high-resource periods.
 <img width="1668" height="646" alt="image" src="https://github.com/user-attachments/assets/b427e9a2-7a8b-4668-8557-b3dac3599e99" />
 
-### 2. Atmospheric Density as a Performance Driver
+### 🔹2. Atmospheric Density as a Performance Driver
 • Positive Correlation: Efficiency is positively correlated with air density. Since cold air is denser, winter provides a higher "mass flow" through the rotor.
 • Physical Reinforcement: The higher production observed in winter is a direct result of increased air density, which provides more kinetic energy for the same wind speed compared to summer.
 <img width="1667" height="647" alt="image" src="https://github.com/user-attachments/assets/b664df38-d43c-4777-8c18-57d25c3112f8" />
 
-### 3. Aerodynamic Shear & Seasonal Directional Stability
+### 🔹3. Aerodynamic Shear & Seasonal Directional Stability
 • Wind Shear Profile: Analysis of the vertical wind gradient (10m to 100m) showed how velocity changes impact rotor torque.
 • Directional Resource: Using radar plots to compare High and Low Density regimes, we found that even when wind aligns with dominant high-resource sectors during High Density periods, the Efficiency Gap remains significantly wider. This confirms that higher wind availability in winter does not translate to proportional efficiency gains, regardless of the wind's direction, suggesting aerodynamic or mechanical saturation.
 <img width="1684" height="455" alt="image" src="https://github.com/user-attachments/assets/ad40c1ed-0f97-4302-b0d9-a97104c25e58" />
 
-### 4. Advanced Power Curve Modeling
+### 🔹4. Advanced Power Curve Modeling
 To ensure an unbiased comparison between Theoretical Potential and Actual Performance, we utilized LOWESS (Locally Weighted Scatterplot Smoothing).
 • Density Partitioning: The analysis was split into High Density and Low Density regimes to isolate atmospheric effects from mechanical performance.
 • Operational Integrity: Across all locations, low efficiency events and operational downtime were significantly more frequent during low-density periods.
