@@ -45,6 +45,7 @@ To ensure an unbiased comparison between Theoretical Potential and Actual Perfor
 • Operational Integrity: Across all locations, low efficiency events and operational downtime were significantly more frequent during low-density periods.
 
 • Site Diagnostics: 
+    
     * Location 1: Closest alignment between the real-world curve and the theoretical model (highest integrity).
     
     * Location 2: Highest deviation from the theoretical curve (most significant performance loss).
